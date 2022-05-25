@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsnotescli/local-client": "^0.1.0"
+    "@jsnotescli/local-client": "^1.0.0"
   },
   "devDependencies": {
     "@jsnotescli/local-api": "^1.0.0",
