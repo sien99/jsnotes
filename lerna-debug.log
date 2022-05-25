@@ -1,0 +1,5 @@
+46 error Error: Command failed: git tag v1.0.0 -m v1.0.0
+46 error fatal: tag 'v1.0.0' already exists
+46 error
+46 error     at makeError (C:\Users\SIen\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:174:9)
+46 error     at C:\Users\SIen\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:278:16
