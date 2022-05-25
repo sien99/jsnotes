@@ -1,4 +1,4 @@
-import { serve } from "@jsnotescli/local-api";
+import { serve } from "@jsnotes-nyh-cli/local-api";
 import { Command } from "commander";
 import path from "path"; // node standard library
 

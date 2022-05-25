@@ -36,7 +36,7 @@ export const serve = (
     //~ Ref: https://www.geeksforgeeks.org/node-js-path-resolve-method/
     // packagePath: return C:\Users\""\local-client\build\index.html
     const packagePath = require.resolve(
-      "@jsnotescli/local-client/build/index.html"
+      "@jsnotes-nyh-cli/local-client/build/index.html"
     );
     // path.dirname: return C:\Users\""\local-client\build\
     app.use(express.static(path.dirname(packagePath)));

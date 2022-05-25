@@ -1,5 +1,5 @@
 {
-  "name": "@jsnotescli/local-api",
+  "name": "@jsnotes-nyh-cli/local-api",
   "version": "1.0.0",
   "description": "",
   "files": [
@@ -23,9 +23,10 @@
     "typescript": "^4.6.4"
   },
   "dependencies": {
-    "@jsnotescli/local-client": "^1.0.0",
+    "@jsnotes-nyh-cli/local-client": "^1.0.0",
     "cors": "^2.8.5",
     "express": "^4.18.1",
     "http-proxy-middleware": "^2.0.6"
-  }
+  },
+  "gitHead": "f70fdac8b7db8bfda777fe5ce3f16c004b040080"
 }
